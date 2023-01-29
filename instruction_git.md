@@ -54,6 +54,12 @@
 
     git log --oneline --all
 
-git checkut
-git checkout master
+Чтобы перейти нанужный коммит, нужно ввести команду, подставив к ней номер нужного коммита:
+
+    git checkut
+
+Чтобы вернуться с выбранного коммита на главный, нужно ввести команду:
+
+    git checkout master
+
 git diff
