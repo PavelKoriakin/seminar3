@@ -38,10 +38,22 @@
 
     git commit -am
 
-git log 
-git log --oneline
-git log --all
-git log --oneline --all
+Чтобы просмотреть древо из последних коммитов нужно ввести команду:
+
+    git log
+
+Для удобства просмотра списка коммитов, используется команда:
+
+    git log --oneline
+
+Чтобы посмотреть все коммиты,нужно ввести команду:
+
+    git log --all
+
+Для просмотра всех коммитов в удобном виде, нужно своместить комманды:
+
+    git log --oneline --all
+
 git checkut
 git checkout master
 git diff
