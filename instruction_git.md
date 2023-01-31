@@ -69,3 +69,13 @@
 ![Best car](Hyundai_Tucson%20_Sport.jpg)
 
 Почему вставилось %20 выше в картинку?
+
+## Ветвление Git
+
+    git branch
+    git branch name
+    git branch merge
+    Merge конфликт
+    git branch -d name
+    git log --graph
+    4 ветки
