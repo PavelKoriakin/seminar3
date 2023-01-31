@@ -66,4 +66,8 @@
 
     git diff
 
+![Best car](Hyundai_Tucson%20_Sport.jpg)
+
+Почему вставилось %20 выше в картинку?
+
 ## Ветвление git
