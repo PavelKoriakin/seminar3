@@ -72,7 +72,10 @@
 
 ## Ветвление Git
 
+Посмотреть ветки:
+
     git branch
+    
     git branch name
     git branch merge
     Merge конфликт
