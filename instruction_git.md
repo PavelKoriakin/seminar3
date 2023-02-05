@@ -99,5 +99,7 @@
 
 Удаление веток about_branch и about_merge
 
+Чтобы посмотрет график ветвей:
+
     git log --graph
     4 ветки
