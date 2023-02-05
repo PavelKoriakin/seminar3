@@ -77,8 +77,13 @@
     git branch
     
     git branch name
-    git branch merge
-    Merge конфликт
+
+Для слияния используют:
+
+    git merge
+
+Иногда возникает Merge конфликт
+
     git branch -d name
     git log --graph
     4 ветки
