@@ -97,5 +97,7 @@
 
 где name название ветки, которую нжно удалить.
 
+Удаление веток about_branch и about_merge
+
     git log --graph
     4 ветки
